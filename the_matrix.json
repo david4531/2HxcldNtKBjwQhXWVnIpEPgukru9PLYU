@@ -494,7 +494,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"2HxcldNtKBjwQhXWVnIpEPgukru9PLYU-master\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -517,7 +517,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"2HxcldNtKBjwQhXWVnIpEPgukru9PLYU-master\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2054,7 +2054,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"2HxcldNtKBjwQhXWVnIpEPgukru9PLYU-master\/tileset_own_jas.png",
+         "image":"tileset_own_jas.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2363,7 +2363,7 @@
         {
          "columns":8,
          "firstgid":577,
-         "image":"2HxcldNtKBjwQhXWVnIpEPgukru9PLYU-master\/floortileset_logos.png",
+         "image":"floortileset_logos.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -2376,7 +2376,7 @@
         {
          "columns":8,
          "firstgid":641,
-         "image":"2HxcldNtKBjwQhXWVnIpEPgukru9PLYU-master\/floor_n_wall_tileset.png",
+         "image":"floor_n_wall_tileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
